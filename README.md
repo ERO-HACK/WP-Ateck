@@ -10,7 +10,8 @@ With this program you can penetrate WordPress sites.
 - pip/pip3 install -r requirements.txt
 - python3 WP-Ateck.py
 
-https://img.shields.io/aur/version/WP-Atteck
+https://img.shields.io/pypi/pyversions/3
+
 ![a2](https://github.com/ERO-HACK/WP-Ateck/assets/72475141/20b3e1ba-db0e-4a69-b301-52159f05bc16)   ![a1](https://github.com/ERO-HACK/WP-Ateck/assets/72475141/b1019225-d3f0-4806-8e5b-2cb1203c0521)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ero-hack&theme=merko&show_icons=true)
