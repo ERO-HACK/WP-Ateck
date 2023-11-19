@@ -13,9 +13,10 @@ With this program you can penetrate WordPress sites.
 
 <p align='center'>
 <a href="https://github.com/Tuhinshubhra/CMSeeK/releases/tag/v.1.1.3"><img src="https://img.shields.io/badge/Version-2.0.1-brightgreen.svg?style=style=flat-square" alt="version"></a>
-<a href="https://github.com/ERO-HACK/WP-Ateck"><img src="https://img.shields.io/badge/python-3-orange.svg?style=style=flat-square" alt="Python Version"></a> <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ero-hack&theme=merko&show_icons=true)
+<a href="https://github.com/ERO-HACK/WP-Ateck"><img src="https://img.shields.io/badge/python-3-orange.svg?style=style=flat-square" alt="Python Version"></a> 
 </p>
+
 ![a2](https://github.com/ERO-HACK/WP-Ateck/assets/72475141/20b3e1ba-db0e-4a69-b301-52159f05bc16)  
 ![a1](https://github.com/ERO-HACK/WP-Ateck/assets/72475141/b1019225-d3f0-4806-8e5b-2cb1203c0521)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ero-hack&theme=merko&show_icons=true)
